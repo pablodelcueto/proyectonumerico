@@ -1,3 +1,0 @@
-En este archivo se irán registrando los comabios que se obtienes al realizar acciones git.
-
-El primero que se observará es la diferencia entre el archivo vacío al cuál se aplicó git commit y a este nuevo archivo que se almacenará. Y Segundo commit
